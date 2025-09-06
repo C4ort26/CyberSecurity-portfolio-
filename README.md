@@ -1,4 +1,15 @@
+<!-- Custom Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/C4ort26/CyberSecurity-portfolio-/main/banner.png" alt="CyberSecurity Portfolio Banner" style="width:100%;max-width:800px;">
+</p>
+
 # CyberSecurity Portfolio
+
+![GitHub repo](https://img.shields.io/github/repo-size/C4ort26/CyberSecurity-portfolio-?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Expert-informational?logo=kali-linux)
+![Metasploit](https://img.shields.io/badge/Metasploit-User-blueviolet?logo=metasploit)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-success?logo=nmap)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-Focused-yellow?logo=owasp)
 
 Showcasing penetration testing and analysis projects.
 
@@ -19,6 +30,10 @@ This portfolio showcases my hands-on experience through real-world simulations a
 - Risk & Findings
 - Methodology
 - Remediation
+- Certifications
+- Screenshots
+- Project Links
+- Contact
 - Appendices
 
 ---
@@ -202,6 +217,39 @@ nmap -sV -p- <192.168.237.4>
 | XSS                  | Sanitize inputs, apply output encoding  |
 | Weak SSH Credentials | Enforce password complexity             |
 | Info Disclosure      | Harden file permissions                 |
+
+---
+
+## 🏅 Certifications
+
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- Offensive Security Certified Professional (OSCP)
+- *(Add your certifications here)*
+
+---
+
+## 📸 Images / Screenshots
+
+> _Add your screenshots or images here. Example:_
+
+![Nmap Scan Result](https://raw.githubusercontent.com/C4ort26/CyberSecurity-portfolio-/main/screenshots/nmap-scan.png)
+![Metasploit Shell](https://raw.githubusercontent.com/C4ort26/CyberSecurity-portfolio-/main/screenshots/metasploit-shell.png)
+
+---
+
+## 🔗 Project Links
+
+- [Full Penetration Test Write-up (PDF)](https://github.com/C4ort26/CyberSecurity-portfolio-/blob/main/Metasploitable2_Pentest_Report.pdf)
+- [LinkedIn Profile](https://www.linkedin.com/in/comfortbaiye)
+- *(Add other project demos or write-ups here)*
+
+---
+
+## 📞 Contact
+
+- **Email:** ifedamolac4ort@gmail.com
+- **LinkedIn:** [linkedin.com/in/comfortbaiye](https://www.linkedin.com/in/comfortbaiye)
 
 ---
 
