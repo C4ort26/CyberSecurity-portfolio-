@@ -1,13 +1,7 @@
 # CyberSecurity-portfolio-
 CyberSecurity portfolio showcasing penetration testing and analysis project 
-Fantastic, Ohunene — let’s build both the Markdown file for your GitHub repo and a blog post that showcases your penetration testing project with clarity and impact. These will help you stand out to recruiters, collaborators, and anyone exploring your portfolio.
-
----
 
 📝 1. Markdown File for GitHub Repo (README.md)
-
-`markdown
-
 🛡️ Penetration Test: Metasploitable2
 
 🔍 Overview
